@@ -50,8 +50,7 @@ The dataset contains information about orders, products, categories, regions, sa
 - The dashboard helps identify business performance patterns.
 
 ## Dashboard Preview
-*Add your dashboard screenshots here.*
-
+![Business Sales Dashboard](Screenshots/Business_Sales_Dashboard.png)
 ## Conclusion
 This project demonstrates how Power BI can be used to transform raw sales data into meaningful business insights through interactive visualizations and performance analysis.
 
