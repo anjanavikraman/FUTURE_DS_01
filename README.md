@@ -62,7 +62,7 @@ The interactive dashboard includes:
 ## Dashboard Preview
 ## Dashboard Preview
 
-![Business Sales Dashboard](Screenshots/Business_Sales_Dashboard.png)
+[Business Sales Dashboard](Screenshots/Business_Sales_Dashboard.png)
 ## Conclusion
 This project demonstrates how Power BI can transform raw sales data into meaningful business insights through interactive visualizations and analysis.
 
